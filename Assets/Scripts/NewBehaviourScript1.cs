@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class NewBehaviourScript1 : MonoBehaviour
 {
+    public int height;
     // Start is called before the first frame update
     void Start()
     {
